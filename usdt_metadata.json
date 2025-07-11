@@ -1,0 +1,6 @@
+{
+  "name": "USDT",
+  "symbol": "USDT",
+  "description": "A custom token mimicking Tether USDT",
+  "image": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+}
