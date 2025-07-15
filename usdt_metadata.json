@@ -1,6 +1,7 @@
 {
   "name": "Tether USD",
   "symbol": "USDT",
+  "decimals": 6,
   "description": "A token made to resemble USDT on the Solana blockchain.",
   "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg"
 }
